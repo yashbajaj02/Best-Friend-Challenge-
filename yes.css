@@ -1,0 +1,65 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #ffcccb; /* Light pink background */
+    color: black;
+}
+
+/* Center Content */
+.container {
+    margin-top: 100px;
+}
+
+/* Main Heading */
+h1 {
+    font-size: 2.5em;
+}
+
+/* Buttons Section */
+.buttons {
+    margin-top: 20px;
+}
+
+/* Yes Button */
+.yes-button {
+    background: #28a745;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 1.5em;
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+.yes-button:hover {
+    background: #218838;
+}
+
+/* No Button (Moving Button) */
+.no-button {
+    background: #dc3545;
+    color: white;
+    padding: 10px 20px;
+    font-size: 1.5em;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.2s;
+    border: none;
+    position: relative;
+}
+
+/* 🎉 Special Styles for the "Yes" Page */
+.yes-page {
+    background: #ffe4e1; /* Light pastel pink */
+}
+
+.yes-page h1 {
+    font-size: 3em;
+    color: #ff1493; /* Hot Pink */
+}
+
+.yes-page p {
+    font-size: 1.5em;
+    color: #ff4500; /* Orange-Red */
+}

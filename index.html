@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Will You Be My Friend? ❤️</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Will You Be My Friend? 🥰</h1>
+        <div class="buttons">
+            <a href="yes.html" class="yes-button">Yes 😊</a>
+            <button class="no-button" onmouseover="moveNoButton()">No 😢</button>
+        </div>
+    </div>
+
+    <script>
+        function moveNoButton() {
+            let button = document.querySelector(".no-button");
+            let x = Math.random() * (window.innerWidth - 100);
+            let y = Math.random() * (window.innerHeight - 50);
+            button.style.position = "absolute";
+            button.style.left = x + "px";
+            button.style.top = y + "px";
+        }
+    </script>
+
+</body>
+</html>
