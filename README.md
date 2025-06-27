@@ -11,6 +11,11 @@ This is a fun and interactive webpage where I ask my best friend:
 - CSS  
 - Fun animations & hover effects  
 
+## 🔗 Live Demo
+
+👉 [Play the Game on GitHub Pages]( https://yashbajaj02.github.io/Rock-Paper-Scissor/)
+
+
 ## 📞 Contact  
 If you like this project, feel free to connect! 😊  
 📧 Email: your-bajajyash06@gmail.com  
