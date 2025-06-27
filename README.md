@@ -13,7 +13,7 @@ This is a fun and interactive webpage where I ask my best friend:
 
 ## 🔗 Live Demo
 
-👉 [Play the Game on GitHub Pages]( https://yashbajaj02.github.io/Rock-Paper-Scissor/)
+👉 [ Link to code ]( https://yashbajaj02.github.io/Best-Friend-Challenge-/ )
 
 
 ## 📞 Contact  
